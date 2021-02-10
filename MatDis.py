@@ -1,3 +1,4 @@
+'#Programa para saber si una matriz de 3x3 tiene inversa'
 def det2x2(m):
     return m[0][0] * m[1][1] - m[0][1] * m[1][0]
 #Recepcion de numeros
